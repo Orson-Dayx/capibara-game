@@ -1,2 +1,2 @@
 # capibara-game
-Github-Pages: [link](https://github.com/Orson-Dayx/capibara-game/menu.html/)
+Github-Pages: [link](https://Orson-Dayx.github.io/capibara-game/menu.html/)
